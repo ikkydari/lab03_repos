@@ -5,6 +5,7 @@
 // Варіант 16
 #include <iostream>
 #include <cmath>
+
 const double M_E = 2.71828;
 using namespace std;
 int main()
